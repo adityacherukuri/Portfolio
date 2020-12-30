@@ -27,7 +27,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.9;
+  opacity: none;
   visibility: hidden; }
   .menu.show {
     visibility: visible; }
