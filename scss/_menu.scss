@@ -33,7 +33,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.9;
+  opacity: none;
   visibility: hidden;
 
   &.show {
@@ -79,7 +79,7 @@
       height: 250px;
       background: url("../img/IMG-Small.jpg");
       border-radius: 50%;
-      border: 3px solid $secondary-color;
+      border: 1px solid $secondary-color;
       background-repeat: no-repeat;
       background-size: 100% 100%;
     }

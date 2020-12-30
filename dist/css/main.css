@@ -27,7 +27,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.9;
+  opacity: none;
   visibility: hidden; }
   .menu.show {
     visibility: visible; }
@@ -60,7 +60,7 @@
       height: 250px;
       background: url("../img/IMG-Small.jpg");
       border-radius: 50%;
-      border: 3px solid coral;
+      border: 1px solid coral;
       background-repeat: no-repeat;
       background-size: 100% 100%; }
   .menu .nav-item {
